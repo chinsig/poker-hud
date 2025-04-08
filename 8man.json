@@ -1,0 +1,101 @@
+{
+    "players": [
+        {
+            "name": "ぱたい",
+            "stack": 10000,
+            "position": "UTG",
+            "action": "",
+            "cards": [
+                "02,05",
+                "16,06"
+            ],
+            "equity": null
+        },
+        {
+            "name": "かず",
+            "stack": 10000,
+            "position": "+1",
+            "action": "",
+            "cards": [
+                "16,08",
+                "08,08"
+            ],
+            "equity": null
+        },
+        {
+            "name": "あうら",
+            "stack": 10000,
+            "position": "LJ",
+            "action": "",
+            "cards": [
+                "16,02",
+                "08,02"
+            ],
+            "equity": null
+        },
+        {
+            "name": "あさてい君",
+            "stack": 10000,
+            "position": "HJ",
+            "action": "",
+            "cards": [
+                "08,06",
+                "04,08"
+            ],
+            "equity": null
+        },
+        {
+            "name": "ひよこ",
+            "stack": 10000,
+            "position": "CO",
+            "action": "",
+            "cards": [
+                "02,02",
+                "02,06"
+            ],
+            "equity": null
+        },
+        {
+            "name": "ひこさん",
+            "stack": 10000,
+            "position": "BU",
+            "action": "",
+            "cards": [
+                "04,10",
+                "04,03"
+            ],
+            "equity": null
+        },
+        {
+            "name": "えりんぎ",
+            "stack": 9950,
+            "position": "SB",
+            "action": "SB 50",
+            "cards": [
+                "16,05",
+                "04,05"
+            ],
+            "equity": null
+        },
+        {
+            "name": "RYO",
+            "stack": 9900,
+            "position": "BB",
+            "action": "BB 100",
+            "cards": [
+                "16,14",
+                "04,13"
+            ],
+            "equity": null
+        }
+    ],
+    "board": {
+        "pot": 0,
+        "blinds": "50/100",
+        "main_pot": 0,
+        "side_pots": [],
+        "cards": [],
+        "street": "Preflop"
+    },
+    "current_action_index": 0
+}

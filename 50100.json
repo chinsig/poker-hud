@@ -1,0 +1,77 @@
+{
+    "players": [
+        {
+            "name": "Set Name",
+            "stack": 10000,
+            "position": "BU",
+            "action": "",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 9950,
+            "position": "SB",
+            "action": "SB 50",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 9900,
+            "position": "BB",
+            "action": "BB 100",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 10000,
+            "position": "UTG",
+            "action": "",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 10000,
+            "position": "+1",
+            "action": "",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 10000,
+            "position": "LJ",
+            "action": "",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 10000,
+            "position": "HJ",
+            "action": "",
+            "cards": [],
+            "equity": null
+        },
+        {
+            "name": "Set Name",
+            "stack": 10000,
+            "position": "CO",
+            "action": "",
+            "cards": [],
+            "equity": null
+        }
+    ],
+    "board": {
+        "pot": 0,
+        "blinds": "50/100",
+        "main_pot": 0,
+        "side_pots": [],
+        "cards": [],
+        "street": "Preflop"
+    },
+    "current_action_index": 0
+}
