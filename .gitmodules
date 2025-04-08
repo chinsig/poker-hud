@@ -1,0 +1,3 @@
+[submodule "pypokerengine"]
+	path = pypokerengine
+	url = https://github.com/ishikota/PyPokerEngine
